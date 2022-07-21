@@ -1,0 +1,14 @@
+filename	acq_time
+anat/sub-033_T1w.nii.gz	2019-12-13T16:07:38
+fmap/sub-033_acq-task_dir-AP_epi.nii.gz	2019-12-13T16:14:15
+fmap/sub-033_acq-task_dir-PA_epi.nii.gz	2019-12-13T16:15:35
+func/sub-033_task-sitrep_run-01_bold.nii.gz	2019-12-13T16:16:34
+func/sub-033_task-sitrep_run-02_bold.nii.gz	2019-12-13T16:26:35
+func/sub-033_task-sitrep_run-03_bold.nii.gz	2019-12-13T16:36:32
+func/sub-033_task-sitrep_run-04_bold.nii.gz	2019-12-13T16:50:13
+func/sub-033_task-sitrep_run-05_bold.nii.gz	2019-12-13T17:00:20
+func/sub-033_task-sitrep_run-06_bold.nii.gz	2019-12-13T17:11:00
+func/sub-033_task-sitrep_run-07_bold.nii.gz	2019-12-13T17:20:56
+func/sub-033_task-sitrep_run-08_bold.nii.gz	2019-12-13T17:31:09
+func/sub-033_task-sitrep_run-09_bold.nii.gz	2019-12-13T17:41:22
+func/sub-033_task-sitrep_run-10_bold.nii.gz	2019-12-13T17:51:07
